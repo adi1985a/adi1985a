@@ -1,12 +1,12 @@
-Welcome to my GitHub profile! I am an aspiring full stack developer eager to share my journey in programming, web development, and data science. I’m passionate about exploring new technologies and building efficient solutions that solve real-world problems.
+Welcome to my GitHub profile! I am a developer with a passion for learning and problem-solving. While my repository is currently a work in progress, I look forward to sharing projects and code that showcase my skills in programming, web development, and data management.
 
 🛠 Technologies I Work With:
 
-Backend: Python (Django, Flask), Java
-Frontend: JavaScript (React, Vue.js), HTML, CSS
-Databases: MySQL, MongoDB
+*Backend: Python (Django, Flask), Java
+*Frontend: JavaScript (React, Vue.js), HTML, CSS
+*Databases: MySQL, MongoDB
+
 📌 About Me:
-I bring a unique combination of technical skills, graphic design expertise, and project management experience. Currently, I am building my portfolio and gaining hands-on experience in software development.
+With a solid background in programming and graphic design, I am constantly expanding my skill set and exploring new technologies. My goal is to build efficient, innovative solutions and grow through collaboration.
 
-💡 Let’s create something amazing together!
-
+💡 Stay tuned for future projects and contributions!

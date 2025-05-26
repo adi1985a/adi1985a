@@ -39,8 +39,7 @@ I'm a passionate **Software Engineer** with a strong foundation in **fullstack d
 - Data visualization (charts, calendars)
 - 100% local — no internet required
 
-🎬 Demo: `screenshots/AI.gif`  
-🖼️ Screenshots: `screenshots/screenshot_main.png`, `screenshots/screenshot_stats.png`  
+🎬 Demo: (Comming soon!)
 🔐 Tech: Python, Vosk, PyAudio, Tkinter, SQLite, Matplotlib, Cryptography
 
 ---

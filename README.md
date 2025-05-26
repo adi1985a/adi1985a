@@ -39,8 +39,8 @@ I'm a passionate **Software Engineer** with a strong foundation in **fullstack d
 - Data visualization (charts, calendars)
 - 100% local — no internet required
 
-🎬 Demo: (Comming soon!)
-🔐 Tech: Python, Vosk, PyAudio, Tkinter, SQLite, Matplotlib, Cryptography
+- 🎬 Demo: (Comming soon!)
+- 🔐 Tech: Python, Vosk, PyAudio, Tkinter, SQLite, Matplotlib, Cryptography
 
 ---
 
@@ -88,7 +88,6 @@ I'm always open to:
 *   💡 Collaborating on meaningful and innovative tech initiatives.
 *   🚀 Building something impactful that solves real-world problems.
 
-Feel free to explore my repositories, and don't hesitate to reach out if you'd like to discuss a project, an idea, or just chat about technology!
 ---
 
 <div align="center">

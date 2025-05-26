@@ -56,43 +56,6 @@ I'm a passionate **Software Engineer** with a strong foundation in **fullstack d
 | 🗄️ Databases | PostgreSQL, MySQL, SQLite |
 | ⚙️ Tools     | Git, Docker, REST API, GraphQL, Power Platform |
 
-Here's a snapshot of the technologies and tools I work with regularly:
-
-*   **Frontend**:
-    *   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-    *   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-    *   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-    *   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-    *   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-    *   (Bootstrap, Tailwind CSS - *if applicable, add badges*)
-*   **Backend**:
-    *   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-    *   ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-    *   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-*   **Programming Languages**:
-    *   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-    *   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-    *   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    *   ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white) <!-- Generic SQL, can use specific DB logo -->
-*   **AI/ML**:
-    *   ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-    *   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-    *   ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-    *   (PyTorch, spaCy, NLTK, Ollama - *if applicable, add badges*)
-*   **Databases**:
-    *   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-    *   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-    *   ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-*   **Tools & Platforms**:
-    *   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-    *   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-    *   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-    *   ![REST API](https://img.shields.io/badge/REST%20API-HTTP-green.svg?style=for-the-badge)
-    *   ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-    *   ![Microsoft Power Platform](https://img.shields.io/badge/Power%20Platform-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) <!-- Simplified -->
-
----
-
 ---
 
 ## 🧩 Other Skills & Interests
@@ -105,12 +68,28 @@ Here's a snapshot of the technologies and tools I work with regularly:
 
 ---
 
+## 🌱 Current Focus & Interests
+
+I'm currently deepening my expertise in:
+*   Advanced Machine Learning techniques and Large Language Model (LLM) applications.
+*   Scalable backend architectures and microservices.
+*   Cloud-native development and DevOps practices.
+*   Exploring the intersection of AI with various industries to create impactful solutions.
+
+---
+
 ## 🌍 Let’s Connect
 
 📫 **Email:** [adr.lesniak@gmail.com](mailto:adr.lesniak@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/adrian-lesniak](https://linkedin.com/in/adrian-lesniak)  
 📁 **GitHub Portfolio:** [github.com/adi1985a](https://github.com/adi1985a)
 
+I'm always open to:
+*   🧠 Learning new technologies and methodologies.
+*   💡 Collaborating on meaningful and innovative tech initiatives.
+*   🚀 Building something impactful that solves real-world problems.
+
+Feel free to explore my repositories, and don't hesitate to reach out if you'd like to discuss a project, an idea, or just chat about technology!
 ---
 
 <div align="center">

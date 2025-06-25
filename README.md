@@ -1,16 +1,18 @@
 # 👋 Hi, I'm Adrian – Fullstack Developer & AI Engineer
 
-I'm a passionate **Software Engineer** with a strong foundation in **fullstack development**, **AI/ML engineering**, and **embedded systems**. I enjoy building scalable, modern applications with clean code and meaningful user experiences. I specialize in **Python**, **JavaScript**, and **C++**, and comfortably navigate both frontend and backend stacks.
+I'm a passionate **Software Engineer** (GPA 5.0/5.0) with hands-on experience in **fullstack development**, **AI/ML engineering**, and **embedded systems**. I enjoy building scalable, modern applications with clean code and meaningful user experiences. I specialize in **Python**, **JavaScript**, **C++** (and C), and navigate both frontend and backend stacks with confidence.
 
 ---
 
 ## 🚀 What I Do
 
-- ⚙️ Build modern, responsive **web** and **desktop** applications (React, Tkinter, Electron)
-- 🤖 Develop and deploy **AI/ML models** for real-world applications (e.g. real estate pricing, voice assistants)
-- 📡 Create secure and efficient **REST/GraphQL APIs** for data-driven platforms
-- 🧠 Design **offline AI solutions** using **local LLMs** (like Ollama & Vosk)
-- 🛠 Build internal tools and automate workflows with **Power Platform** (PowerApps, PowerAutomate)
+- ⚙️ Build modern, responsive **web** and **desktop** applications (React, Next.js, Electron, Tkinter)
+- 🤖 Develop and deploy **AI/ML models** for real-world use cases (voice assistants, real estate price prediction)
+- 📡 Design secure and efficient **REST/GraphQL APIs** and integrate with Azure-hosted services
+- 🧠 Create **offline AI solutions** using local LLMs (Ollama, Vosk) with privacy and performance in mind
+- 🔧 Prototype **embedded systems** on Arduino & Raspberry Pi for IoT and real-time data collection
+- 🔄 Automate workflows and internal tools with **Power Platform** (PowerApps, PowerAutomate)
+
 
 ---
 
@@ -19,9 +21,8 @@ I'm a passionate **Software Engineer** with a strong foundation in **fullstack d
 - 🎓 **Engineer’s Degree in Software Development**
 - 🏆 Graduated with distinction (**5.0 / 5.0 GPA**)
 - 📚 **Bachelor Thesis:**  
-  **Offline AI Assistant** – A smart voice assistant running fully offline using a local LLM.  
-  Focus on privacy, speed, and speech-to-text processing without internet dependency.  
-  Tech stack: Python, Vosk, Tkinter, SQLite, cryptography, Ollama.
+  **Offline AI Assistant** – a fully offline voice assistant built in Python with Vosk, Ollama, Tkinter, SQLite & cryptography.
+  Focused on speech-to-text, TTS, secure local note-taking and data visualization.
 
 ---
 
@@ -29,8 +30,8 @@ I'm a passionate **Software Engineer** with a strong foundation in **fullstack d
 
 ### 🗣️ Offline AI Assistant (Local LLM-based)
 
-> A fully offline, private voice assistant built in Python using Vosk, Ollama, and Tkinter.  
-> Equipped with note-taking, text-to-speech, password encryption, visual stats, and local database storage.
+> A 100% offline, private voice assistant in Python for taking encrypted notes, executing commands, and visualizing data without any internet dependency.  
+> **Tech:** Python, Vosk for STT, PyAudio, Tkinter UI, SQLite + SQLCipher, Matplotlib, Ollama LLM.
 
 📌 Features:
 - Chat with AI (LLM via Ollama)
@@ -42,28 +43,34 @@ I'm a passionate **Software Engineer** with a strong foundation in **fullstack d
 >🎬 Demo: (Comming soon!)
 >🔐 Tech: Python, Vosk, PyAudio, Tkinter, SQLite, Matplotlib, Cryptography
 
+### 🏠 Real Estate Price Predictor
+
+> A machine learning pipeline in Python/TensorFlow that analyzes historical property data to forecast market prices in select cities.  
+> **Stack:** Python, pandas, TensorFlow, scikit-learn, PostgreSQL, Docker, GitHub Actions.
+
 ---
 
 ## 🛠 Tech Stack
 
-| Category     | Tools & Frameworks |
-|--------------|--------------------|
-| 💻 Frontend  | React, Next.js, HTML5, CSS3 |
-| 🔧 Backend   | Node.js, Flask, Django |
-| 🧠 AI/ML     | scikit-learn, TensorFlow, Keras |
-| 💬 Languages | Python, JavaScript, C++, SQL |
-| 🗄️ Databases | PostgreSQL, MySQL, SQLite |
-| ⚙️ Tools     | Git, Docker, REST API, GraphQL, Power Platform |
+| Category     | Tools & Frameworks                                |
+|--------------|---------------------------------------------------|
+| 💻 Frontend  | React, Next.js, Vue (learning), HTML5, CSS3       |
+| 🔧 Backend   | Node.js, Flask, Django, ASP.NET Core (learning)  |
+| 🧠 AI/ML     | TensorFlow, scikit-learn, Keras, local LLMs       |
+| 💬 Languages | Python, JavaScript, C++, C, SQL                   |
+| 🌐 Cloud     | Azure Functions, Azure VM, Docker                 |
+| 🗄️ Databases | PostgreSQL, MySQL, SQLite                         |
+| ⚙️ Tools     | Git, GitHub, CI/CD, REST/GraphQL API, Power Platform |
 
 ---
 
 ## 🧩 Other Skills & Interests
 
-- 🎨 UI/UX prototyping
-- 🔐 Data privacy & encryption
-- 📦 Containerization with Docker
-- 🛠️ Cross-platform automation with Power Automate
-- 🤝 Open to collaboration and mentoring
+- 🎨 UI/UX prototyping & data-driven design  
+- 🔐 Data privacy, encryption & offline-first architectures  
+- 🛠️ Embedded development on Arduino & Raspberry Pi  
+- 🤝 Agile collaboration, code reviews & documentation  
+- 🌍 Fluent in Polish; English (C1); Norwegian (B2); Italian (B1)
 
 ---
 

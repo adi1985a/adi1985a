@@ -1,17 +1,18 @@
 # 👋 Hi, I'm Adrian – Fullstack Developer & AI Engineer
 
-I'm a passionate **Software Engineer** (GPA 5.0/5.0) with hands-on experience in **fullstack development**, **AI/ML engineering**, and **embedded systems**. I enjoy building scalable, modern applications with clean code and meaningful user experiences. I specialize in **Python**, **JavaScript**, **C++** (and C), and navigate both frontend and backend stacks with confidence.
+I'm a passionate **Software Engineer** (GPA 5.0/5.0) with hands-on experience across **fullstack development**, **AI/ML engineering**, **embedded systems**, and **DevOps**. I enjoy building scalable, modern applications with clean code and meaningful user experiences. I specialize in **Python**, **JavaScript**, **C++**, **C**, and comfortably navigate frontend, backend, and low-level stacks.
 
 ---
 
 ## 🚀 What I Do
 
-- ⚙️ Build modern, responsive **web** and **desktop** applications (React, Next.js, Electron, Tkinter)
-- 🤖 Develop and deploy **AI/ML models** for real-world use cases (voice assistants, real estate price prediction)
-- 📡 Design secure and efficient **REST/GraphQL APIs** and integrate with Azure-hosted services
-- 🧠 Create **offline AI solutions** using local LLMs (Ollama, Vosk) with privacy and performance in mind
-- 🔧 Prototype **embedded systems** on Arduino & Raspberry Pi for IoT and real-time data collection
-- 🔄 Automate workflows and internal tools with **Power Platform** (PowerApps, PowerAutomate)
+- ⚙️ Build modern, responsive **web**, **desktop**, and **mobile** applications (React, Next.js, Electron, Flask, Laravel, Ionic)
+- 🤖 Develop and deploy **AI/ML models** for real-world use cases (voice assistants, real estate pricing, predictive analytics)
+- 📡 Design secure and efficient **REST/GraphQL APIs**, integrate with **Azure Functions**, Event Grid, Queues
+- 🧠 Create **offline AI solutions** using local LLMs (Ollama, Vosk) with encryption and SQLite storage
+- 🔧 Prototype **embedded systems** on Arduino, ESP32 & Raspberry Pi for IoT and real-time data collection
+- 🛠 Automate workflows and internal tools with **Power Platform** (PowerApps, PowerAutomate) and custom scripts
+- 🚀 Implement CI/CD pipelines with **GitHub Actions**, Docker, Azure DevOps
 
 
 ---
@@ -45,22 +46,49 @@ I'm a passionate **Software Engineer** (GPA 5.0/5.0) with hands-on experience in
 
 ### 🏠 Real Estate Price Predictor
 
-> A machine learning pipeline in Python/TensorFlow that analyzes historical property data to forecast market prices in select cities.  
+> A ML pipeline in Python/TensorFlow that analyzes historical property data to forecast market prices.  
 > **Stack:** Python, pandas, TensorFlow, scikit-learn, PostgreSQL, Docker, GitHub Actions.
+
+### 📚 Library Management Service
+> A fullstack Flask/Python + React application with MySQL for cataloging and searching digital resources.
+
+### 🖥️ BiblioConnect
+> Online library platform built with PHP and JavaScript, featuring REST API integration and user-friendly UI.
+
+---
+
+## 📂 GitHub Repositories
+
+- **UI-UX-Design-Portfolio** – Showcase of visual design work and prototypes  
+- **Diagrams** – Collection of system and data-flow diagrams (draw.io)  
+- **Arduino-Projects-1–5** – Hands-on microcontroller experiments in C++  
+- **Survivalist-Pro-Offline-Emergency** – Python tool for offline emergency planning  
+- **Personal-Assistent-AI-offline-PL** – Polish-language offline AI assistant (Python)  
+- **Housing-Price-Prediction-Neural-Network** – Neural network in Python for property valuation  
+- **To-do-list-React-app** – Task manager built with React and localStorage  
+- **Laravel-Project** – Sample web app in PHP/Laravel with MVC architecture  
+- **Developer-Career-navigator-Python** – CLI tool guiding developer career paths  
+- **API-Python** – Simple REST API examples in Flask and FastAPI  
+- **Multi-Tool-Utility-Salary-Tickets** – C++ console utilities suite
+
+Feel free to explore all my contributions on [github.com/adi1985a](https://github.com/adi1985a).
 
 ---
 
 ## 🛠 Tech Stack
 
-| Category     | Tools & Frameworks                                |
-|--------------|---------------------------------------------------|
-| 💻 Frontend  | React, Next.js, Vue (learning), HTML5, CSS3       |
-| 🔧 Backend   | Node.js, Flask, Django, ASP.NET Core (learning)  |
-| 🧠 AI/ML     | TensorFlow, scikit-learn, Keras, local LLMs       |
-| 💬 Languages | Python, JavaScript, C++, C, SQL                   |
-| 🌐 Cloud     | Azure Functions, Azure VM, Docker                 |
-| 🗄️ Databases | PostgreSQL, MySQL, SQLite                         |
-| ⚙️ Tools     | Git, GitHub, CI/CD, REST/GraphQL API, Power Platform |
+| Category           | Tools & Frameworks                                                                 |
+|--------------------|------------------------------------------------------------------------------------|
+| 💻 Frontend        | React, Next.js, Vue (learning), HTML5, CSS3, SASS, Bootstrap, jQuery               |
+| 🔧 Backend         | Node.js, Flask, Django, Laravel, ASP.NET Core (learning), REST/GraphQL             |
+| 🧠 AI/ML           | TensorFlow, PyTorch, scikit-learn, local LLMs                               |
+| 💬 Languages       | Python, JavaScript, C++, C, Java, Pascal, Fortran, SQL                 |
+| 🌐 Cloud & CI/CD   | Azure Functions, Azure VM, Docker, GitHub Actions, Azure DevOps, Git               |
+| 🗄️ Databases       | PostgreSQL, MySQL, Oracle, SQLite, ETL/OLAP                                 |
+| 🛠 Embedded & IoT  | Arduino, ESP32, Raspberry Pi, C++                                               |
+| 🔒 Security & Dev  | Git, Wireshark, PuTTY, VirtualBox, SQLCipher, SSL/TLS                              |
+| 🔄 Workflows       | Power Platform (PowerApps), Bash/PowerShell scripting               |
+| 🛠 Other Tools     | MS Project, Trello, BPMN, ERD, DFD, GIMP, Blender  
 
 ---
 
@@ -99,7 +127,7 @@ I'm always open to:
 
 <div align="center">
 
-🧠 Built with ❤️ using Python · React · Ollama · Vosk  
-🛡️ 100% Offline · 100% Private · 100% Yours
+🧠 Built with ❤️ using Python · React · Docker · Azure · Ollama · Vosk  
+🛡️ 100% Offline AI · 100% Private · 100% Yours
 
 </div>

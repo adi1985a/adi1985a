@@ -114,7 +114,7 @@ I'm currently deepening my expertise in:
 ## 🌍 Let’s Connect
 
 📫 **Email:** [adr.lesniak@gmail.com](mailto:adr.lesniak@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/adrian-lesniak](https://linkedin.com/in/adrian-lesniak)  
+💼 **LinkedIn:** [linkedin.com/in/adrian-lesniak-41029014a](https://linkedin.com/in/adrian-lesniak-41029014a)  
 📁 **GitHub Portfolio:** [github.com/adi1985a](https://github.com/adi1985a)
 
 I'm always open to:

@@ -32,7 +32,7 @@ I'm a passionate **Software Engineer** (GPA 5.0/5.0) with hands-on experience ac
 ### 🗣️ Offline AI Assistant (Local LLM-based)
 
 > A 100% offline, private voice assistant in Python for taking encrypted notes, executing commands, and visualizing data without any internet dependency.  
-> **Tech:** Python, Vosk for STT, PyAudio, Tkinter UI, SQLite + SQLCipher, Matplotlib, Ollama LLM.
+> 🔐 **Tech:** Python, Vosk for STT, PyAudio, Tkinter UI, SQLite + SQLCipher, Matplotlib, Ollama LLM.
 
 📌 Features:
 - Chat with AI (LLM via Ollama)
@@ -42,12 +42,11 @@ I'm a passionate **Software Engineer** (GPA 5.0/5.0) with hands-on experience ac
 - 100% local — no internet required
 
 >🎬 Demo: (Comming soon!)
->🔐 Tech: Python, Vosk, PyAudio, Tkinter, SQLite, Matplotlib, Cryptography
 
 ### 🏠 Real Estate Price Predictor
 
 > A ML pipeline in Python/TensorFlow that analyzes historical property data to forecast market prices.  
-> **Stack:** Python, pandas, TensorFlow, scikit-learn, PostgreSQL, Docker, GitHub Actions.
+> 🔐 **Tech:** Python, pandas, TensorFlow, scikit-learn, PostgreSQL, Docker, GitHub Actions.
 
 ### 📚 Library Management Service
 > A fullstack Flask/Python + React application with MySQL for cataloging and searching digital resources.

@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Adrian – Fullstack Developer & AI Engineer
+🌍 **My WebPage:** [adrian-lesniak.com](https://adrian-lesniak.com) 
 
 I'm a passionate **Software Engineer** (GPA 5.0/5.0) with hands-on experience across **fullstack development**, **AI/ML engineering**, **embedded systems**, and **DevOps**. I enjoy building scalable, modern applications with clean code and meaningful user experiences. I specialize in **Python**, **JavaScript**, **C++**, **C**, and comfortably navigate frontend, backend, and low-level stacks.
 
